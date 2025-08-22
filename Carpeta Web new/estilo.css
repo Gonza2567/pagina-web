@@ -1,0 +1,20 @@
+tr{
+background-color: blue;
+color: yellow;
+
+
+
+}
+th{
+background-color: black;
+
+}
+caption{
+    background-color: brown;
+    color: black;
+}
+tfoot td{
+background-color: blue;
+color: yellow;
+
+} 
